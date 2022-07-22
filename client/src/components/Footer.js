@@ -13,7 +13,7 @@ const Footer = () => {
               target="_blank"
               rel="noreferrer"
             >
-              Tarun Singh
+              ksr
             </a>
           </Col>
         </Row>
